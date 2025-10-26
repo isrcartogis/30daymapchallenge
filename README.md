@@ -1,44 +1,363 @@
-# אתגר 30 יום של מפות | 30 Day Map Challenge
+# אתגר 30 יום של מפות 2025 | 30 Day Map Challenge 2025
 
-🗺️ **גרסה עברית של אתר אתגר 30 יום של מפות**
+🗺️ **ברוכים הבאים לאתגר המיפוי היומי של נובמבר!**
 
-Hebrew version of the 30 Day Map Challenge website.
-
-## אודות | About
-
-אתגר 30 יום של מפות הוא פרויקט מיפוי חברתי יומי המתקיים בכל נובמבר. המשתתפים יוצרים ומשתפים מפה חדשה בכל יום על בסיס נושאים יומיים שונים.
-
-The 30 Day Map Challenge is a daily social mapping project happening every November. Participants create and share a new map each day based on different daily themes.
-
-## השתמשו באתר | Using the Website
-
-פשוט פתחו את הקובץ `index.html` בדפדפן או העלו אותו לשרת אינטרנט.
-
-Simply open the `index.html` file in a web browser or deploy it to a web server.
-
-## תכונות | Features
-
-- ✅ תרגום מלא לעברית עם תמיכה בכיווניות RTL
-- ✅ כל 30 נושאי האתגר של 2025
-- ✅ עיצוב מודרני ורספונסיבי
-- ✅ תגי "יסודות קלאסיים" (אדמה, אוויר, מים, אש)
-- ✅ קישורים לרשתות חברתיות
-- ✅ מדריך התחלה מפורט
+Welcome to the daily mapping challenge happening every November!
 
 ---
 
-- ✅ Full Hebrew translation with RTL support
-- ✅ All 30 challenge themes for 2025
-- ✅ Modern and responsive design
-- ✅ Classical Elements tags (Earth, Air, Water, Fire)
-- ✅ Social media links
-- ✅ Comprehensive getting started guide
+## 📅 נובמבר 2025 - נושאים יומיים | November 2025 - Daily Themes
 
-## האשטאג | Hashtag
+### יום 1 | Day 1: נקודות | Points
+צרו מפה עם נתוני נקודות - מיקומים, צבירות, נקודות עניין
 
-#30DayMapChallenge
+Create a map with point data - locations, clusters, POIs
 
-## קרדיט | Credits
+📁 `day01-points/`
 
-Original challenge created by **Topi Tjukanov**
-Hebrew translation and website design by the community
+---
+
+### יום 2 | Day 2: קווים | Lines
+מפו מאפיינים ליניאריים כמו כבישים, נהרות או קווי זרימה
+
+Map linear features like roads, rivers, or flow lines
+
+📁 `day02-lines/`
+
+---
+
+### יום 3 | Day 3: פוליגונים | Polygons
+מאפייני שטח - גבולות, שימושי קרקע, מילוי ודפוסים
+
+Area features - boundaries, land use, fills and patterns
+
+📁 `day03-polygons/`
+
+---
+
+### יום 4 | Day 4: אתגר נתונים - הנתונים שלי | Data Challenge: My Data
+מפו משהו אישי עם מערך הנתונים שלכם
+
+Map something personal using your own dataset
+
+📁 `day04-my-data/`
+
+---
+
+### יום 5 | Day 5: אדמה (יסודות קלאסיים ¼) | Earth (Classical Elements ¼)
+צורות קרקע, גאולוגיה, קרקע, גובה, או כל דבר מעל/מתחת לאדמה
+
+Landforms, geology, soil, elevation, or anything on/beneath the ground
+
+📁 `day05-earth/`
+
+---
+
+### יום 6 | Day 6: ממדים | Dimensions
+מעבר ל-2D - תלת-ממד, עומק, זמן או גישות ניסיוניות
+
+Go beyond 2D - think 3D, depth, time, or experimental approaches
+
+📁 `day06-dimensions/`
+
+---
+
+### יום 7 | Day 7: נגישות | Accessibility
+מפו איך אנשים/דברים מתנייעים - זמני נסיעה, עיצוב כולל, נגישות
+
+Map how people/things get around - travel time, inclusive design, or accessibility itself
+
+📁 `day07-accessibility/`
+
+---
+
+### יום 8 | Day 8: עירוני (יום העיור העולמי) | Urban (World Urbanism Day)
+מפו סביבות עירוניות - רשתות, תשתיות, צפיפות אוכלוסין
+
+Map city environments - networks, infrastructure, population density
+
+📁 `day08-urban/`
+
+---
+
+### יום 9 | Day 9: אנלוגי | Analog
+צרו מפות בשיטות מסורתיות - ציור ביד, צביעה וכדומה
+
+Create maps using traditional methods - hand drawn, painted, etc.
+
+📁 `day09-analog/`
+
+---
+
+### יום 10 | Day 10: אוויר (יסודות קלאסיים 2/4) | Air (Classical Elements 2/4)
+מפו תופעות אטמוספריות - מזג אוויר, רוחות, תעבורה אווירית, זיהום
+
+Map atmospheric phenomena - weather, winds, air traffic, pollution
+
+📁 `day10-air/`
+
+---
+
+### יום 11 | Day 11: מפה מינימליסטית | Minimal Map
+השתמשו במינימום אלמנטים לבהירות והשפעה מרבית
+
+Use the fewest possible elements for clarity and impact
+
+📁 `day11-minimal/`
+
+---
+
+### יום 12 | Day 12: מפה משנת 2125 | Map from 2125
+מיפוי ספקולטיבי - דמיינו מפות בעוד 100 שנה
+
+Speculative mapping - imagine maps 100 years in the future
+
+📁 `day12-future/`
+
+---
+
+### יום 13 | Day 13: מפה ב-10 דקות | 10 Minute Map
+עצבו וייצרו מפה תוך 10 דקות בלבד
+
+Design and produce a map in just 10 minutes
+
+📁 `day13-10minutes/`
+
+---
+
+### יום 14 | Day 14: אתגר נתונים - OpenStreetMap | Data Challenge: OpenStreetMap
+השתמשו בנתוני OSM כמקור העיקרי - גלו את האפשרויות
+
+Use OSM data as the main source - explore its possibilities
+
+📁 `day14-openstreetmap/`
+
+---
+
+### יום 15 | Day 15: תרבות | Culture
+הציגו מאפיינים תרבותיים - שפות, מנהגים, מורשת
+
+Visualize cultural features - languages, customs, heritage
+
+📁 `day15-culture/`
+
+---
+
+### יום 16 | Day 16: מים (יסודות קלאסיים 3/4) | Water (Classical Elements 3/4)
+אוקיינוסים, אגמים, נהרות, גשמים, קרח
+
+Oceans, lakes, rivers, rainfall, ice
+
+📁 `day16-water/`
+
+---
+
+### יום 17 | Day 17: אתגר נתונים - חישה מרחוק | Data Challenge: Remote Sensing
+תמונות לוויין או אוויר כמקור הנתונים העיקרי
+
+Satellite or aerial imagery as main data source
+
+📁 `day17-remote-sensing/`
+
+---
+
+### יום 18 | Day 18: גבולות | Borders
+גבולות לאומיים, מנהליים או בלתי פורמליים
+
+National, administrative, or informal boundary maps
+
+📁 `day18-borders/`
+
+---
+
+### יום 19 | Day 19: אקלים | Climate
+טמפרטורה, משקעים, מערכות אקולוגיות או שינויי אקלים
+
+Temperature, precipitation, ecosystems, or climate change
+
+📁 `day19-climate/`
+
+---
+
+### יום 20 | Day 20: תנועה | Movement
+הגירה, זרמי תנועה, תנועות בעלי חיים או דפוסים לאורך זמן
+
+Migration, traffic flows, animal movements, or patterns over time
+
+📁 `day20-movement/`
+
+---
+
+### יום 21 | Day 21: כלים | Tools
+צרו מפה עם כלי או שיטה שלא ניסיתם בעבר
+
+Make a map using a tool or method you haven't tried before
+
+📁 `day21-tools/`
+
+---
+
+### יום 22 | Day 22: מתחת לפני השטח | Below Ground
+גאולוגיה, מערות, רכבות תחתיות או כל דבר מתחת לפני השטח
+
+Geology, caves, subways, or anything beneath the surface
+
+📁 `day22-below-ground/`
+
+---
+
+### יום 23 | Day 23: רמיקס למפה | Map Remix
+פרשו מחדש מפה של מישהו אחר בסגנון שלכם
+
+Reinterpret someone else's map in your own style
+
+📁 `day23-remix/`
+
+---
+
+### יום 24 | Day 24: עמידות אקלימית | Climate Resilience
+אסטרטגיות הסתגלות, סכנות, פגיעות או אסונות
+
+Adaptation strategies, hazards, vulnerability, or disasters
+
+📁 `day24-climate-resilience/`
+
+---
+
+### יום 25 | Day 25: קווי מתאר | Contours
+גובה, שטח, קווי איזו או נתונים דומים
+
+Elevation, terrain, isolines, or similar data
+
+📁 `day25-contours/`
+
+---
+
+### יום 26 | Day 26: אתגר נתונים - נתונים פתוחים | Data Challenge: Open Data
+השתמשו בכל מערך נתונים ציבורי פתוח ליצירת מפה
+
+Use any open public dataset to make a map
+
+📁 `day26-open-data/`
+
+---
+
+### יום 27 | Day 27: השתקפות | Reflection
+חזרו או שפרו מפה קודמת מהאתגר
+
+Revisit or refine a previous map from the challenge
+
+📁 `day27-reflection/`
+
+---
+
+### יום 28 | Day 28: אש (יסודות קלאסיים 4/4) | Fire (Classical Elements 4/4)
+שריפות יער, אנרגיה, הרי געש, חום
+
+Wildfires, energy, volcanoes, heat
+
+📁 `day28-fire/`
+
+---
+
+### יום 29 | Day 29: אוכלוסייה | Population
+הציגו צפיפות אוכלוסין, דמוגרפיה או סטטיסטיקות
+
+Visualize population density, demographics, or statistics
+
+📁 `day29-population/`
+
+---
+
+### יום 30 | Day 30: מטא-מפה | Metamap
+צרו מפה על מפות או על תהליך המיפוי עצמו
+
+Make a map about maps, or mapping itself
+
+📁 `day30-metamap/`
+
+---
+
+## 📂 מבנה התיקיות | Folder Structure
+
+```
+30daymapchallenge/
+├── day01-points/
+├── day02-lines/
+├── day03-polygons/
+├── day04-my-data/
+├── day05-earth/
+├── day06-dimensions/
+├── day07-accessibility/
+├── day08-urban/
+├── day09-analog/
+├── day10-air/
+├── day11-minimal/
+├── day12-future/
+├── day13-10minutes/
+├── day14-openstreetmap/
+├── day15-culture/
+├── day16-water/
+├── day17-remote-sensing/
+├── day18-borders/
+├── day19-climate/
+├── day20-movement/
+├── day21-tools/
+├── day22-below-ground/
+├── day23-remix/
+├── day24-climate-resilience/
+├── day25-contours/
+├── day26-open-data/
+├── day27-reflection/
+├── day28-fire/
+├── day29-population/
+└── day30-metamap/
+```
+
+כל תיקייה יכולה להכיל את המפות, הקוד והנתונים שלכם עבור אותו יום.
+
+Each folder can contain your maps, code, and data for that day.
+
+---
+
+## 🎯 איך להשתתף | How to Participate
+
+1. בחרו נושא יומי | Choose a daily theme
+2. צרו מפה | Create a map
+3. שתפו ברשתות החברתיות עם **#30DayMapChallenge**
+4. השתמשו בתיקיות כדי לארגן את העבודה שלכם | Use folders to organize your work
+
+---
+
+## 📱 שתפו | Share
+
+שתפו את המפות שלכם בטוויטר, אינסטגרם או פלטפורמות אחרות:
+
+Share your maps on Twitter, Instagram, or other platforms:
+
+- 🐦 Twitter: [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge)
+- 📸 Instagram: [#30daymapchallenge](https://www.instagram.com/explore/tags/30daymapchallenge/)
+- 📂 GitHub: [Official Repository](https://github.com/tjukanovt/30DayMapChallenge)
+- 🌐 Website: [30daymapchallenge.com](https://30daymapchallenge.com/)
+
+---
+
+## ℹ️ אודות | About
+
+אתגר 30 יום של מפות הוא פרויקט מיפוי חברתי יומי שנוצר על ידי **Topi Tjukanov**.
+
+The 30 Day Map Challenge is a daily social mapping project created by **Topi Tjukanov**.
+
+- אין פרסים, רק קהילה תוססת של חובבי מפות וגיאו-מרחב
+- פתוח לכל רמות המיומנות
+- השתמשו בכלים שאתם אוהבים: QGIS, ArcGIS, Python, R, JavaScript, D3.js, ועוד
+
+---
+
+- No prizes, just a vibrant community of mappers and geospatial enthusiasts
+- Open to all skill levels
+- Use the tools you love: QGIS, ArcGIS, Python, R, JavaScript, D3.js, and more
+
+---
+
+**בהצלחה! | Good luck! 🗺️**
