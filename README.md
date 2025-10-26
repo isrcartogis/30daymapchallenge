@@ -114,7 +114,7 @@ Use the fewest possible elements for clarity and impact
 
 Speculative mapping - imagine maps 100 years in the future
 
-📁 `day12-future/`
+📁 `day12-2125/`
 
 ---
 
@@ -136,147 +136,147 @@ Use OSM data as the main source - explore its possibilities
 
 ---
 
-### יום 15 | Day 15: תרבות | Culture
-הציגו מאפיינים תרבותיים - שפות, מנהגים, מורשת
+### יום 15 | Day 15: אש (יסודות קלאסיים 3/4) | Fire (Classical Elements 3/4)
+התמקדו באנרגיה, אור או טרנספורמציה - חום, שריפות יער, צריכת אנרגיה, פעילות וולקנית
 
-Visualize cultural features - languages, customs, heritage
+Focus on energy, light, or transformation - heat, wildfires, energy consumption, volcanic activity
 
-📁 `day15-culture/`
-
----
-
-### יום 16 | Day 16: מים (יסודות קלאסיים 3/4) | Water (Classical Elements 3/4)
-אוקיינוסים, אגמים, נהרות, גשמים, קרח
-
-Oceans, lakes, rivers, rainfall, ice
-
-📁 `day16-water/`
+📁 `day15-fire/`
 
 ---
 
-### יום 17 | Day 17: אתגר נתונים - חישה מרחוק | Data Challenge: Remote Sensing
-תמונות לוויין או אוויר כמקור הנתונים העיקרי
+### יום 16 | Day 16: תא | Cell
+מפו משהו המורכב מיחידות קטנות או רשתות - תא גיאוגרפי (רסטר, טסלציה), רשת סלולרית או תהליך ביולוגי/חברתי
 
-Satellite or aerial imagery as main data source
+Map something composed of small units or networks - geographic cell (raster, tessellation), cellular network, or biological/social process
 
-📁 `day17-remote-sensing/`
-
----
-
-### יום 18 | Day 18: גבולות | Borders
-גבולות לאומיים, מנהליים או בלתי פורמליים
-
-National, administrative, or informal boundary maps
-
-📁 `day18-borders/`
+📁 `day16-cell/`
 
 ---
 
-### יום 19 | Day 19: אקלים | Climate
-טמפרטורה, משקעים, מערכות אקולוגיות או שינויי אקלים
+### יום 17 | Day 17: כלי חדש | A New Tool
+צרו מפה עם תוכנה, שפה, ספרייה או טכניקה שמעולם לא השתמשתם בה
 
-Temperature, precipitation, ecosystems, or climate change
+Create a map using a software, language, library, or technique you have never used before
 
-📁 `day19-climate/`
-
----
-
-### יום 20 | Day 20: תנועה | Movement
-הגירה, זרמי תנועה, תנועות בעלי חיים או דפוסים לאורך זמן
-
-Migration, traffic flows, animal movements, or patterns over time
-
-📁 `day20-movement/`
+📁 `day17-new-tool/`
 
 ---
 
-### יום 21 | Day 21: כלים | Tools
-צרו מפה עם כלי או שיטה שלא ניסיתם בעבר
+### יום 18 | Day 18: מחוץ לעולם הזה | Out of This World
+מפו משהו שאינו כדור הארץ - עולם פנטזיה, כוכב לכת, הירח, מאדים, או מקום קונספטואלי
 
-Make a map using a tool or method you haven't tried before
+Map something non-Earth - a fantasy realm, exoplanet, the Moon, Mars, or a purely conceptual place
 
-📁 `day21-tools/`
-
----
-
-### יום 22 | Day 22: מתחת לפני השטח | Below Ground
-גאולוגיה, מערות, רכבות תחתיות או כל דבר מתחת לפני השטח
-
-Geology, caves, subways, or anything beneath the surface
-
-📁 `day22-below-ground/`
+📁 `day18-out-of-this-world/`
 
 ---
 
-### יום 23 | Day 23: רמיקס למפה | Map Remix
-פרשו מחדש מפה של מישהו אחר בסגנון שלכם
+### יום 19 | Day 19: השלכות (יום ה-GIS) | Projections (GIS Day)
+התמקדו בהשלכות מפה - בחרו השלכה יוצאת דופן כדי להדגיש נושא או להמחיש עיוות
 
-Reinterpret someone else's map in your own style
+Focus on map projections - choose an unusual projection to highlight a theme or visualize distortion
 
-📁 `day23-remix/`
-
----
-
-### יום 24 | Day 24: עמידות אקלימית | Climate Resilience
-אסטרטגיות הסתגלות, סכנות, פגיעות או אסונות
-
-Adaptation strategies, hazards, vulnerability, or disasters
-
-📁 `day24-climate-resilience/`
+📁 `day19-projections/`
 
 ---
 
-### יום 25 | Day 25: קווי מתאר | Contours
-גובה, שטח, קווי איזו או נתונים דומים
+### יום 20 | Day 20: מים (יסודות קלאסיים 4/4) | Water (Classical Elements 4/4)
+התמקדו בנוזלי - הידרולוגיה, אוקיינוסים, זרמים, נגישות מים, עליית פני הים, משקעים
 
-Elevation, terrain, isolines, or similar data
+Focus on the fluid - hydrology, oceans, currents, water accessibility, sea level rise, precipitation
 
-📁 `day25-contours/`
-
----
-
-### יום 26 | Day 26: אתגר נתונים - נתונים פתוחים | Data Challenge: Open Data
-השתמשו בכל מערך נתונים ציבורי פתוח ליצירת מפה
-
-Use any open public dataset to make a map
-
-📁 `day26-open-data/`
+📁 `day20-water/`
 
 ---
 
-### יום 27 | Day 27: השתקפות | Reflection
-חזרו או שפרו מפה קודמת מהאתגר
+### יום 21 | Day 21: אייקונים | Icons
+צרו מפה שבה אייקונים, פיקטוגרמות או סמלים מותאמים אישית הם המוקד העיקרי
 
-Revisit or refine a previous map from the challenge
+Create a map where icons, pictograms, or custom symbols are the main focus
 
-📁 `day27-reflection/`
-
----
-
-### יום 28 | Day 28: אש (יסודות קלאסיים 4/4) | Fire (Classical Elements 4/4)
-שריפות יער, אנרגיה, הרי געש, חום
-
-Wildfires, energy, volcanoes, heat
-
-📁 `day28-fire/`
+📁 `day21-icons/`
 
 ---
 
-### יום 29 | Day 29: אוכלוסייה | Population
-הציגו צפיפות אוכלוסין, דמוגרפיה או סטטיסטיקות
+### יום 22 | Day 22: אתגר נתונים - Natural Earth | Data Challenge: Natural Earth
+השתמשו במערך הנתונים Natural Earth כמקור העיקרי למפת עולם או יבשת מרהיבה
 
-Visualize population density, demographics, or statistics
+Use the Natural Earth dataset as your primary source for a visually stunning world or continent map
 
-📁 `day29-population/`
+📁 `day22-natural-earth/`
 
 ---
 
-### יום 30 | Day 30: מטא-מפה | Metamap
-צרו מפה על מפות או על תהליך המיפוי עצמו
+### יום 23 | Day 23: תהליך | Process
+הראו איך אתם יוצרים מפה - מדריך, גרפיקה שלב אחר שלב, פוסט בבלוג או וידאו
 
-Make a map about maps, or mapping itself
+Show how you make a map - a tutorial, step-by-step graphic, blog post, or video
 
-📁 `day30-metamap/`
+📁 `day23-process/`
+
+---
+
+### יום 24 | Day 24: מקומות ושמותיהם | Places and Their Names
+התמקדו בטופונימיה (שמות מקומות) - התנסו בבחירת גופנים, מיקום תוויות או היסטוריה של שמות
+
+Focus on toponymy (place names) - experiment with fonts, label placement, or the history behind names
+
+📁 `day24-places-and-names/`
+
+---
+
+### יום 25 | Day 25: משושים | Hexagons
+השתמשו ב-hexagonal binning או רשת משושים להמחשת הנתונים
+
+Use hexagonal binning (hexbins) or a hexagonal grid system to visualize your data
+
+📁 `day25-hexagons/`
+
+---
+
+### יום 26 | Day 26: תחבורה (יום התחבורה הבת-קיימא העולמי) | Transport (World Sustainable Transport Day)
+מפו ניידות, זרימת תנועה, רשתות תחבורה ציבורית או שרשראות לוגיסטיות
+
+Map mobility, traffic flow, public transit networks, or logistics chains
+
+📁 `day26-transport/`
+
+---
+
+### יום 27 | Day 27: גבולות | Boundaries
+מפו קווי הפרדה - פוליטיים, פיזיים, אקולוגיים או קונספטואליים
+
+Map lines of division - political, physical, ecological, or conceptual
+
+📁 `day27-boundaries/`
+
+---
+
+### יום 28 | Day 28: שחור (יום השישי השחור) | Black (Black Friday)
+פרשו את הנושא שחור - מפה מונוכרומטית, ייצוג של היעדר/חושך או נושאי צריכה
+
+Interpret the theme of Black - monochromatic map, represent absence/darkness, or themes of consumption
+
+📁 `day28-black/`
+
+---
+
+### יום 29 | Day 29: רסטר | Raster
+מפו באמצעות נתוני רסטר - תמונות לוויין, מודלי גובה, כיסוי קרקע או אמנות מבוססת פיקסלים
+
+Map using raster data - satellite imagery, elevation models (DEMs), land cover, or pixel-based art
+
+📁 `day29-raster/`
+
+---
+
+### יום 30 | Day 30: שיפוץ | Makeover
+קחו מפה שיצרתם החודש או יצירה ישנה יותר ועצבו אותה מחדש - שפרו אסתטיקה, בהירות או תקשורת נתונים
+
+Take a map you made during the month or an older piece and redesign it - improve aesthetics, clarity, or data communication
+
+📁 `day30-makeover/`
 
 ---
 
@@ -306,43 +306,43 @@ Make a map about maps, or mapping itself
 │   └── images/
 ├── day11-minimal/
 │   └── images/
-├── day12-future/
+├── day12-2125/
 │   └── images/
 ├── day13-10minutes/
 │   └── images/
 ├── day14-openstreetmap/
 │   └── images/
-├── day15-culture/
+├── day15-fire/
 │   └── images/
-├── day16-water/
+├── day16-cell/
 │   └── images/
-├── day17-remote-sensing/
+├── day17-new-tool/
 │   └── images/
-├── day18-borders/
+├── day18-out-of-this-world/
 │   └── images/
-├── day19-climate/
+├── day19-projections/
 │   └── images/
-├── day20-movement/
+├── day20-water/
 │   └── images/
-├── day21-tools/
+├── day21-icons/
 │   └── images/
-├── day22-below-ground/
+├── day22-natural-earth/
 │   └── images/
-├── day23-remix/
+├── day23-process/
 │   └── images/
-├── day24-climate-resilience/
+├── day24-places-and-names/
 │   └── images/
-├── day25-contours/
+├── day25-hexagons/
 │   └── images/
-├── day26-open-data/
+├── day26-transport/
 │   └── images/
-├── day27-reflection/
+├── day27-boundaries/
 │   └── images/
-├── day28-fire/
+├── day28-black/
 │   └── images/
-├── day29-population/
+├── day29-raster/
 │   └── images/
-└── day30-metamap/
+└── day30-makeover/
     └── images/
 ```
 
