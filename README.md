@@ -15,7 +15,7 @@ Welcome to the daily mapping challenge happening every November!
 
 Create a map with point data - locations, clusters, POIs
 
-📁 `day01-points/`
+📁 [`day01-points/`](day01-points/)
 
 ---
 
@@ -24,7 +24,7 @@ Create a map with point data - locations, clusters, POIs
 
 Map linear features like roads, rivers, or flow lines
 
-📁 `day02-lines/`
+📁 [`day02-lines/`](day02-lines/)
 
 ---
 
@@ -33,7 +33,7 @@ Map linear features like roads, rivers, or flow lines
 
 Area features - boundaries, land use, fills and patterns
 
-📁 `day03-polygons/`
+📁 [`day03-polygons/`](day03-polygons/)
 
 ---
 
@@ -42,7 +42,7 @@ Area features - boundaries, land use, fills and patterns
 
 Map something personal using your own dataset
 
-📁 `day04-my-data/`
+📁 [`day04-my-data/`](day04-my-data/)
 
 ---
 
@@ -51,7 +51,7 @@ Map something personal using your own dataset
 
 Landforms, geology, soil, elevation, or anything on/beneath the ground
 
-📁 `day05-earth/`
+📁 [`day05-earth/`](day05-earth/)
 
 ---
 
@@ -60,7 +60,7 @@ Landforms, geology, soil, elevation, or anything on/beneath the ground
 
 Go beyond 2D - think 3D, depth, time, or experimental approaches
 
-📁 `day06-dimensions/`
+📁 [`day06-dimensions/`](day06-dimensions/)
 
 ---
 
@@ -69,7 +69,7 @@ Go beyond 2D - think 3D, depth, time, or experimental approaches
 
 Map how people/things get around - travel time, inclusive design, or accessibility itself
 
-📁 `day07-accessibility/`
+📁 [`day07-accessibility/`](day07-accessibility/)
 
 ---
 
@@ -78,7 +78,7 @@ Map how people/things get around - travel time, inclusive design, or accessibili
 
 Map city environments - networks, infrastructure, population density
 
-📁 `day08-urban/`
+📁 [`day08-urban/`](day08-urban/)
 
 ---
 
@@ -87,7 +87,7 @@ Map city environments - networks, infrastructure, population density
 
 Create maps using traditional methods - hand drawn, painted, etc.
 
-📁 `day09-analog/`
+📁 [`day09-analog/`](day09-analog/)
 
 ---
 
@@ -96,7 +96,7 @@ Create maps using traditional methods - hand drawn, painted, etc.
 
 Map atmospheric phenomena - weather, winds, air traffic, pollution
 
-📁 `day10-air/`
+📁 [`day10-air/`](day10-air/)
 
 ---
 
@@ -105,7 +105,7 @@ Map atmospheric phenomena - weather, winds, air traffic, pollution
 
 Use the fewest possible elements for clarity and impact
 
-📁 `day11-minimal/`
+📁 [`day11-minimal/`](day11-minimal/)
 
 ---
 
@@ -114,7 +114,7 @@ Use the fewest possible elements for clarity and impact
 
 Speculative mapping - imagine maps 100 years in the future
 
-📁 `day12-2125/`
+📁 [`day12-2125/`](day12-2125/)
 
 ---
 
@@ -123,7 +123,7 @@ Speculative mapping - imagine maps 100 years in the future
 
 Design and produce a map in just 10 minutes
 
-📁 `day13-10minutes/`
+📁 [`day13-10minutes/`](day13-10minutes/)
 
 ---
 
@@ -132,7 +132,7 @@ Design and produce a map in just 10 minutes
 
 Use OSM data as the main source - explore its possibilities
 
-📁 `day14-openstreetmap/`
+📁 [`day14-openstreetmap/`](day14-openstreetmap/)
 
 ---
 
@@ -141,7 +141,7 @@ Use OSM data as the main source - explore its possibilities
 
 Focus on energy, light, or transformation - heat, wildfires, energy consumption, volcanic activity
 
-📁 `day15-fire/`
+📁 [`day15-fire/`](day15-fire/)
 
 ---
 
@@ -150,7 +150,7 @@ Focus on energy, light, or transformation - heat, wildfires, energy consumption,
 
 Map something composed of small units or networks - geographic cell (raster, tessellation), cellular network, or biological/social process
 
-📁 `day16-cell/`
+📁 [`day16-cell/`](day16-cell/)
 
 ---
 
@@ -159,7 +159,7 @@ Map something composed of small units or networks - geographic cell (raster, tes
 
 Create a map using a software, language, library, or technique you have never used before
 
-📁 `day17-new-tool/`
+📁 [`day17-new-tool/`](day17-new-tool/)
 
 ---
 
@@ -168,7 +168,7 @@ Create a map using a software, language, library, or technique you have never us
 
 Map something non-Earth - a fantasy realm, exoplanet, the Moon, Mars, or a purely conceptual place
 
-📁 `day18-out-of-this-world/`
+📁 [`day18-out-of-this-world/`](day18-out-of-this-world/)
 
 ---
 
@@ -177,7 +177,7 @@ Map something non-Earth - a fantasy realm, exoplanet, the Moon, Mars, or a purel
 
 Focus on map projections - choose an unusual projection to highlight a theme or visualize distortion
 
-📁 `day19-projections/`
+📁 [`day19-projections/`](day19-projections/)
 
 ---
 
@@ -186,7 +186,7 @@ Focus on map projections - choose an unusual projection to highlight a theme or 
 
 Focus on the fluid - hydrology, oceans, currents, water accessibility, sea level rise, precipitation
 
-📁 `day20-water/`
+📁 [`day20-water/`](day20-water/)
 
 ---
 
@@ -195,7 +195,7 @@ Focus on the fluid - hydrology, oceans, currents, water accessibility, sea level
 
 Create a map where icons, pictograms, or custom symbols are the main focus
 
-📁 `day21-icons/`
+📁 [`day21-icons/`](day21-icons/)
 
 ---
 
@@ -204,7 +204,7 @@ Create a map where icons, pictograms, or custom symbols are the main focus
 
 Use the Natural Earth dataset as your primary source for a visually stunning world or continent map
 
-📁 `day22-natural-earth/`
+📁 [`day22-natural-earth/`](day22-natural-earth/)
 
 ---
 
@@ -213,7 +213,7 @@ Use the Natural Earth dataset as your primary source for a visually stunning wor
 
 Show how you make a map - a tutorial, step-by-step graphic, blog post, or video
 
-📁 `day23-process/`
+📁 [`day23-process/`](day23-process/)
 
 ---
 
@@ -222,7 +222,7 @@ Show how you make a map - a tutorial, step-by-step graphic, blog post, or video
 
 Focus on toponymy (place names) - experiment with fonts, label placement, or the history behind names
 
-📁 `day24-places-and-names/`
+📁 [`day24-places-and-names/`](day24-places-and-names/)
 
 ---
 
@@ -231,7 +231,7 @@ Focus on toponymy (place names) - experiment with fonts, label placement, or the
 
 Use hexagonal binning (hexbins) or a hexagonal grid system to visualize your data
 
-📁 `day25-hexagons/`
+📁 [`day25-hexagons/`](day25-hexagons/)
 
 ---
 
@@ -240,7 +240,7 @@ Use hexagonal binning (hexbins) or a hexagonal grid system to visualize your dat
 
 Map mobility, traffic flow, public transit networks, or logistics chains
 
-📁 `day26-transport/`
+📁 [`day26-transport/`](day26-transport/)
 
 ---
 
@@ -249,7 +249,7 @@ Map mobility, traffic flow, public transit networks, or logistics chains
 
 Map lines of division - political, physical, ecological, or conceptual
 
-📁 `day27-boundaries/`
+📁 [`day27-boundaries/`](day27-boundaries/)
 
 ---
 
@@ -258,7 +258,7 @@ Map lines of division - political, physical, ecological, or conceptual
 
 Interpret the theme of Black - monochromatic map, represent absence/darkness, or themes of consumption
 
-📁 `day28-black/`
+📁 [`day28-black/`](day28-black/)
 
 ---
 
@@ -267,7 +267,7 @@ Interpret the theme of Black - monochromatic map, represent absence/darkness, or
 
 Map using raster data - satellite imagery, elevation models (DEMs), land cover, or pixel-based art
 
-📁 `day29-raster/`
+📁 [`day29-raster/`](day29-raster/)
 
 ---
 
@@ -276,7 +276,7 @@ Map using raster data - satellite imagery, elevation models (DEMs), land cover, 
 
 Take a map you made during the month or an older piece and redesign it - improve aesthetics, clarity, or data communication
 
-📁 `day30-makeover/`
+📁 [`day30-makeover/`](day30-makeover/)
 
 ---
 
