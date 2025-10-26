@@ -19,6 +19,6 @@ Create a map with point data - locations, clusters, POIs
 - Measurement or observation points
 
 ## תוצאות | Results
-הוסיפו כאן את המפה שלכם!
+הוסיפו את המפה שלכם לתיקיית `images/`!
 
-Add your map here!
+Add your map to the `images/` folder!

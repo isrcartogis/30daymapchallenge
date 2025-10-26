@@ -283,40 +283,70 @@ Make a map about maps, or mapping itself
 ```
 30daymapchallenge/
 ├── day01-points/
+│   └── images/
 ├── day02-lines/
+│   └── images/
 ├── day03-polygons/
+│   └── images/
 ├── day04-my-data/
+│   └── images/
 ├── day05-earth/
+│   └── images/
 ├── day06-dimensions/
+│   └── images/
 ├── day07-accessibility/
+│   └── images/
 ├── day08-urban/
+│   └── images/
 ├── day09-analog/
+│   └── images/
 ├── day10-air/
+│   └── images/
 ├── day11-minimal/
+│   └── images/
 ├── day12-future/
+│   └── images/
 ├── day13-10minutes/
+│   └── images/
 ├── day14-openstreetmap/
+│   └── images/
 ├── day15-culture/
+│   └── images/
 ├── day16-water/
+│   └── images/
 ├── day17-remote-sensing/
+│   └── images/
 ├── day18-borders/
+│   └── images/
 ├── day19-climate/
+│   └── images/
 ├── day20-movement/
+│   └── images/
 ├── day21-tools/
+│   └── images/
 ├── day22-below-ground/
+│   └── images/
 ├── day23-remix/
+│   └── images/
 ├── day24-climate-resilience/
+│   └── images/
 ├── day25-contours/
+│   └── images/
 ├── day26-open-data/
+│   └── images/
 ├── day27-reflection/
+│   └── images/
 ├── day28-fire/
+│   └── images/
 ├── day29-population/
+│   └── images/
 └── day30-metamap/
+    └── images/
 ```
 
-כל תיקייה יכולה להכיל את המפות, הקוד והנתונים שלכם עבור אותו יום.
+כל תיקייה מכילה תיקיית `images/` לאחסון המפות והתמונות שלכם עבור אותו יום.
 
-Each folder can contain your maps, code, and data for that day.
+Each folder contains an `images/` directory to store your maps and images for that day.
 
 ---
 
