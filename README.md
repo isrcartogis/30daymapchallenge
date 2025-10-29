@@ -8,6 +8,28 @@ Welcome to the daily mapping challenge happening every November!
 
 ---
 
+
+## 🎯 איך להשתתף | How to Participate
+
+1. בחרו נושא יומי | Choose a daily theme
+2. צרו מפה | Create a map
+3. שתפו ברשתות החברתיות עם **#30DayMapChallenge**
+4. השתמשו בתיקיות כדי לארגן את העבודה שלכם | Use folders to organize your work
+
+---
+
+## 📱 שתפו | Share
+
+שתפו את המפות שלכם בטוויטר, אינסטגרם או פלטפורמות אחרות:
+
+Share your maps on Twitter, Instagram, or other platforms:
+
+- 🐦 Twitter: [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge)
+- 📸 Instagram: [#30daymapchallenge](https://www.instagram.com/explore/tags/30daymapchallenge/)
+- 📂 GitHub: [Official Repository](https://github.com/tjukanovt/30DayMapChallenge)
+- 🌐 Website: [30daymapchallenge.com](https://30daymapchallenge.com/)
+
+---
 ## 📅 נובמבר 2025 - נושאים יומיים | November 2025 - Daily Themes
 
 ### יום 1 | Day 1: נקודות | Points
@@ -349,28 +371,6 @@ Take a map you made during the month or an older piece and redesign it - improve
 כל תיקייה מכילה תיקיית `images/` לאחסון המפות והתמונות שלכם עבור אותו יום.
 
 Each folder contains an `images/` directory to store your maps and images for that day.
-
----
-
-## 🎯 איך להשתתף | How to Participate
-
-1. בחרו נושא יומי | Choose a daily theme
-2. צרו מפה | Create a map
-3. שתפו ברשתות החברתיות עם **#30DayMapChallenge**
-4. השתמשו בתיקיות כדי לארגן את העבודה שלכם | Use folders to organize your work
-
----
-
-## 📱 שתפו | Share
-
-שתפו את המפות שלכם בטוויטר, אינסטגרם או פלטפורמות אחרות:
-
-Share your maps on Twitter, Instagram, or other platforms:
-
-- 🐦 Twitter: [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge)
-- 📸 Instagram: [#30daymapchallenge](https://www.instagram.com/explore/tags/30daymapchallenge/)
-- 📂 GitHub: [Official Repository](https://github.com/tjukanovt/30DayMapChallenge)
-- 🌐 Website: [30daymapchallenge.com](https://30daymapchallenge.com/)
 
 ---
 
