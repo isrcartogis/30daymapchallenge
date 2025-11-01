@@ -19,6 +19,13 @@ Create a map with point data - locations, clusters, POIs
 - Measurement or observation points
 
 ## תוצאות | Results
-הוסיפו את המפה שלכם לתיקיית `images/`!
-
+הוסיפו את המפה שלכם לתיקיית `images/`!  
 Add your map to the `images/` folder!
+### עדו קליין
+![](images/ido_klein.png)
+[קישור](https://x.com/idoklein1/status/1984695427359240486)
+### עוד מישהו
+
+
+
+
